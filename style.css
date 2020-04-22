@@ -1,0 +1,26 @@
+main {
+  font-family: 'Sen', sans-serif;
+}
+
+img {
+  width: 150px;
+  margin: 0px;
+}
+
+a {
+    display: block;
+}
+
+div {
+  display: flex;
+}
+
+section {
+  width: 210px;
+  text-align: center;
+}
+
+/* img:hover {
+  width: 200px;
+  margin: 0px;
+} */
